@@ -4,9 +4,8 @@ Business::GoCardless - Top level namespace for the Business::GoCardless
 set of modules
 
 <div>
-
     <a href='https://travis-ci.org/Humanstate/business-gocardless?branch=master'><img src='https://travis-ci.org/Humanstate/business-gocardless.svg?branch=master' alt='Build Status' /></a>
-    <a href='https://coveralls.io/r/Humanstate/business-gocardless?branch=master'><img src='https://coveralls.io/repos/Humanstate/business-gocardless/badge.png?branch=master' alt='Coverage Status' /></a>
+    <a href='https://coveralls.io/r/Humanstate/business-gocardless?branch=master'><img src='https://coveralls.io/repos/Humanstate/business-gocardless/badge.svg?branch=master' alt='Coverage Status' /></a>
 </div>
 
 # VERSION
